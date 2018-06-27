@@ -8,3 +8,11 @@
 * Github Tutorials - https://www.atlassian.com/git/tutorials <br>
                      http://try.github.io/
 * Github Cheat Sheet - https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+
+
+---
+
+### Repo Organization
+
+* Folders are organized by chapter. Each folder will contain sample code, solutions, and discussion summaries (taking place in discord etc).
+* Solutions will be of the format: QuestionNumber_QuestionTitle_ProgrammingLanguage_Username (e.g.  10.1_SortedMerge_Python_harveenchadha)
