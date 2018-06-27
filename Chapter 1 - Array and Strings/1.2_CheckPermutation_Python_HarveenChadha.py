@@ -2,7 +2,7 @@
 # your code goes here
 
 # 1.2 Check Permutation
-
+# online Link - https://ideone.com/B7tEGE
 string1 = input("Please enter string 1\n")
 string2 = input("Please enter string 2\n")
 
