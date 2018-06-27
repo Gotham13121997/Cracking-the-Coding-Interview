@@ -7,3 +7,4 @@
 * Data Structures Tutorials - https://www.youtube.com/playlist?list=PL85E636D722E8AA85
 * Github Tutorials - https://www.atlassian.com/git/tutorials <br>
                      http://try.github.io/
+* Github Cheat Sheet - https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
