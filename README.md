@@ -4,3 +4,6 @@
 
 * Cracking the Coding Interview 6th Edition- https://drive.google.com/open?id=1pQQ9Ih04G7TPEc8cLsvXUaOUMxSJO51h
 * Discord Channel- https://discord.gg/4QDX3x
+* Data Structures Tutorials - https://www.youtube.com/playlist?list=PL85E636D722E8AA85
+* Github Tutorials - https://www.atlassian.com/git/tutorials 
+                     http://try.github.io/
